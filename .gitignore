@@ -4,6 +4,5 @@ __pycache__/
 *.pyc
 .uuid
 checkpoints/
-run/examples
 run/images_output
 images/
