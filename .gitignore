@@ -2,7 +2,7 @@
 __pycache__/
 .vscode/
 *.pyc
-.uuid
-checkpoints/
+.uuid'
 run/images_output
 images/
+checkpoints/
